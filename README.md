@@ -1,6 +1,10 @@
 # HTML-2010-Google
 This is a HTML project that makes Google 2010 style (like the 1998 easter egg.) Here it is:
-
+Step one: Copy the code below (not all of it is considered code so just try to copy everything that looks like HTML script)
+Step two: Open notepad.
+Step three: Save file as google_2010.html.
+Step four: Look for it.
+Step five: Click on it, then select Google Chrome as the site.
 
 
 <!DOCTYPE html>
